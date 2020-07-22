@@ -1,0 +1,6 @@
+//contains action types
+// export const FETCH_MOBILES = 'FETCH_MOBILES';   
+
+export const FETCH_MOBILES_REQUEST = 'FETCH_MOBILES_REQUEST';
+export const FETCH_MOBILES_SUCCESS = 'FETCH_MOBILES_SUCCESS';
+export const FETCH_MOBILES_FAILURE = 'FETCH_MOBILES_FAILURE';
